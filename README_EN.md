@@ -1,3 +1,4 @@
+![avatar](screenshots/wuhan.png)  
 # English | [简体中文](./README.md)
 
 ## A Program that acquires data automatically 
