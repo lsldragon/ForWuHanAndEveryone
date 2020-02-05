@@ -5,4 +5,4 @@ authorizationCode=************
 #收件邮箱地址，多个地址以英文分号隔开
 mailLists=lsldragon@outlook.com;**********@qq.com;
 #间隔时间(小时)
-intervalTime=3
+intervalTime=30
