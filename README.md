@@ -13,6 +13,9 @@ authorizationCode=******** 发件箱的授权码，***注意不是邮箱密码**
 mailLists=********@qq.com;lsldragon@outlook.com; 支持多方发送，多个邮箱间以英文分号隔开  
 intervalTime=1 间隔时间(单位小时，整数类型)
 
+### 
+dist文件夹为编译过的程序，建议在服务器或网络环境良好的计算机中运行(均需JRE才能运行)
+
 ## 致谢
 祝大家一切都好
 
