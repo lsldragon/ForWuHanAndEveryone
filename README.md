@@ -15,7 +15,8 @@ intervalTime=1 间隔时间(单位小时，整数类型)
 
 ### 
 dist文件夹为编译过的程序，建议在服务器或网络环境良好的计算机中运行(均需JRE才能运行).  
-反馈邮箱: lsldragon@outlook.com
+反馈邮箱: lsldragon@outlook.com  
+Python版: [Python版](https://github.com/lsldragon/ForWHPython)
 
 ## 致谢
 祝大家一切都好
