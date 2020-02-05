@@ -1,3 +1,4 @@
+![avatar](screenshots/wuhan.png)  
 # 简体中文 | [English](./README_EN.md)
 
 ## 自动抓取程序
